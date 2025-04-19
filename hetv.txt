@@ -69,3 +69,34 @@ IT
 
 fragment
 
+
+
+
+#writen in C 
+#pushed on ARPANET
+#writen by Dr. H
+#in 1972
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entity{
+    process():
+        while 1 :
+            self.process();
+}
+
+Entity IT
+
+IT.process()
+
+
