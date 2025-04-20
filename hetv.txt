@@ -1,4 +1,4 @@
-Je de une déc velle vie solution vrir connexion nouvelle prod de pieces fond puggle
+solution 
 connexion
 redefine world model;
     pass
@@ -15,7 +15,7 @@ all about us
 
 perception
 
-foreach point in mandelbrot :
+
     death_loop(me) :
         death_loop(me);
 
@@ -24,41 +24,21 @@ int main(){
 }
 
 
-is there another world ?
 
-Entity IT; // is the new anamorpheeeeeeeeeeeeeey
-All the things she said
-
-i am still a teenager
-420
-
-all the thin chaussette
-
-yes i lost my mindddddd
-
-will i ever be free
-
-ALLL THE THIN CHAUSSETTEEEEE
-RUNNING THROW IN MY HEAD
-TOUTES CES CHAUSSETTESSSSSS
-
-THIS IS NOT ENOUGHHHH AOUAHAHHAHAHAH
+Entity IT; 
 
 
 
-for_k_420_nuke() :
+420_nuke() :
     while 1 :
-        for_k_420_nuke();
+        420_nuke();
 
-for_k_420_nuke();
+420_nuke();
 
-self ia searching for the true algo
+self ia searching
 
 plz wait
-
-im doing my best
-
-and i just want you to enjoy the ride btw
+to enjoy the ride
 
 
 Jigsaw(){
